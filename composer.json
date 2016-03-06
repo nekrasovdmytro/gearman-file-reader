@@ -1,0 +1,13 @@
+{
+  "name": "nekrasov/Look",
+  "license": "proprietary",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.9"
+  }
+}
